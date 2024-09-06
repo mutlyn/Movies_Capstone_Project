@@ -17,7 +17,7 @@ This project aims to explore various aspects of movie data, such as genres, rati
   Data Exploration and Analysis
 1.  Data Cleaning and Preparation:
 
-- **Handling Missing Values**: Imputed missing values in rating, released, score, votes, writer, star, country, budget, gross, company, and runtime columns using appropriate techniques (e.g., median for numerical columns, mode for categorical columns).
+- **Handling Missing Values**: Imputed missing values in rating, released, score, votes, writer, star, country, budget, gross, company, and runtime columns using appropriate techniques (like median for numerical columns, mode for categorical columns).
 - **Data Formatting**: Ensured data consistency and correct data types.
 - **Outlier Detection**: No significant outliers were identified.
 2. Exploratory Data Analysis (EDA):
