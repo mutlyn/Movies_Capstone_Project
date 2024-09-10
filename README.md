@@ -40,7 +40,7 @@ This project aims to explore various aspects of movie data, such as genres, rati
 ### Project Structure
  - Data Folder: Contains the cleaned dataset (movies.csv).
  - Notebook: Jupyter Notebook with the code for data exploration, analysis, and visualization.
- - Dashboard: Tableau dashboard file (movie_dashboard.twbx).
+ - Dashboard: Tableau dashboard file ([movie_dashboard.twbx)](https://public.tableau.com/app/profile/berlyn.mutinda/viz/Movie_17259767589490/MoviesDashboard).
 -  README.md: This document.
   
 ### Tools and Libraries
